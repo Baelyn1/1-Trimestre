@@ -7,6 +7,18 @@
 
 https://gtthb.com/____/exg de 
 
+## Apuntes
+
+https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf
+
+## Procesador
+
+## RAM
+
+## Teclado
+
+
+
 # paguina conversion
 
 
