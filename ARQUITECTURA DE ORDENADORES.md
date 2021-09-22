@@ -117,6 +117,24 @@ Como conseguir un buen ordenador, las partes necesaria de un ordenador son las s
 
 
 
+Enlaces de imaguenes de las paguinas: 
+-La del pece https://ae01.alicdn.com/kf/HTB1HEkWbBOD3KVjSZFFq6An9pXa5/417-243-427mm-Gaming-PC-Gamer-Case-Full-side-transparente-de-vidrio-templado-chasis-de-refrigeraci.jpg 
+
+-La de la placa madre: https://m.media-amazon.com/images/I/51I8WOkHMZL._AC_SX450_.jpg
+
+-La de la CPU (Procesador): https://media.istockphoto.com/photos/central-processing-unit-cpu-microchip-processor-picture-id1032306886
+
+-La de un GPU Tarjeta gráfica: https://i.blogs.es/5a8f2b/tarjetasgraficasap/840_560.jpg
+
+-La de la RAM (Memoria): https://hardzone.es/app/uploads-hardzone.es/2019/10/Memoria-RAM.jpg?x=480&quality=20
+
+-La de un Dispositivo de almacenamiento (SSD, NVME SSD, HDD): 
+
+-La de la Refrigeración (CPU, chasis):
+
+-La de una PSU (Fuente de alimentación):
+
+Enlaces a las diferentes paguinas: https://blogs.portafolio.co/cuales-son-los-componentes-o-partes-mas-importantes-para-armar-un-pc 
 
 
 
@@ -125,5 +143,12 @@ Como conseguir un buen ordenador, las partes necesaria de un ordenador son las s
 
 
 
-Enlaces a los 
+
+
+
+
+
+
+
+
 
