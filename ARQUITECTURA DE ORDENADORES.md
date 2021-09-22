@@ -1,7 +1,10 @@
 # Arquitectura de ordenadores
 
-Aqui estan los apuntes del ordenador, y diferentes componentes del pc.
+[tarea que rellenarás más tarde]
 
-# ==> Placa madre
+## Clase de binario
 
-![](https://blog.ibertronica.es/wp-content/uploads/2012/12/PlacasBase.jpg)
+los apuntes
+
+### Ejercicios de conversión
+
