@@ -3,7 +3,7 @@
 
 ## Indice
 
-[clase de binario] (# Ginario)
+[clase de binario](#clase-de-binario)
 
 https://gtthb.com/____/exg de 
 
