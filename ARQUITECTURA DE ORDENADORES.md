@@ -299,7 +299,7 @@ Hanzla, Umer y Alejandro.
 Yo aprendi que los ordenadores tienen varios componentes internos,
 y la importancia de que estos esten bien colocados en sus lugares.
 
--Descripcion de los componentes
+-Descripcion de los componentes 
 
 ## Investigación
 
