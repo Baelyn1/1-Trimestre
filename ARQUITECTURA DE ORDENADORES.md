@@ -285,18 +285,26 @@ Ten go un disco duro magnetico de 100 gigabites
 104857600 KB/ 0,5 kb = 20971520000,134765625 kb
 
 
+## Desmontar un PC
 
+Documentacion:
 
+-Personas en el equipi:
+Hanzla, Umer y Alejandro.
 
+-Quién fue el fotografo: Hanzla.
 
+-Proceso de desmontaje
+-Que habeis aprendido.
+En mi caso
 
+-Descripcion de los componentes
 
+## Investigación
 
-
-
-
-
-
+-¿De qué año es el ordenador?
+-¿Funcionaría el ordenador?
+-¿Le faltan piezas?
 
 
 
