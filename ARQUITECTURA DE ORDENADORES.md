@@ -296,7 +296,7 @@ Hanzla, Umer y Alejandro.
 
 -Proceso de desmontaje
 -Que habeis aprendido.
-En mi caso
+Yo aprendi que los ordenadores tienen varios componentes internos y sus
 
 -Descripcion de los componentes
 
