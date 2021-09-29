@@ -296,7 +296,8 @@ Hanzla, Umer y Alejandro.
 
 -Proceso de desmontaje
 -Que habeis aprendido.
-Yo aprendi que los ordenadores tienen varios componentes internos y sus
+Yo aprendi que los ordenadores tienen varios componentes internos,
+y la importancia de que estos esten bien colocados en sus lugares.
 
 -Descripcion de los componentes
 
