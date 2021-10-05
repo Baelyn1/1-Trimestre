@@ -2,9 +2,9 @@
 
 ### Descripción
 
-El día ... hicimos... 
+El día 28 de septiembre desmontamos ordenadores
 
-Éramos un grupo y éramos ... 
+Éramos un grupo y éramos 
 
 Las fotografías las tomó ... 
 
@@ -26,4 +26,6 @@ Esta es la fuente de alimentación. La fuente de alimentación sirve para....
 #### Que he aprendido sobre ordenadores
 
 #### ¿Funcionaría este ordenador? 
+
+
 
