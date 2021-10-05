@@ -309,4 +309,82 @@ y la importancia de que estos esten bien colocados en sus lugares.
 
 
 
+Puntes de informática:
+
+
+## internet y webs
+
+### Redes locales LAN
+
+
+
+
+Switch
+
+tienen un microcontrolador para 
+
+El wifi funciona por ip tiene un sevidor o un punto de acceso
+
+DHP — 
+
+
+Router 
+
+el isp es el que te da internet con otro internet
+
+
+DNS 
+
+
+
+DLOS
+
+
+
+Ataque DDOs es pedir a la vez demasiadas cosas a un mismo servidor
+
+
+Stream significaba arroyo   corriente de agua es una corriente de datos
+
+
+TCP/P----- 
+
+Protocolo utp 
+
+Puertos ---- Puertas, abiertas o cerradas pueden estar.
+
+
+LAN
+4 bytes IPi4
+
+255×255×255×255 ------- 4228250625
+
+
+IPv6   6bytes
+
+
+255×255×255×255×255 ------- 1,078203909×10¹² o treinta mil millones
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
