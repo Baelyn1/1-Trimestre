@@ -21,9 +21,10 @@ Esta es la fuente de alimentación. La fuente de alimentación sirve para alimen
 (incluir fotos)
 
 ###  Conclusiones
-El trabajo de desmontar el ordenador fue bastante informativo, ya que 
+El trabajo de desmontar el ordenador fue bastante informativo, ya que descubri algunas partes que no conocia y fue hasta cierto punto divertido y instructivo.
 
 #### Que he aprendido sobre ordenadores
+He aprendido que 
 
 #### ¿Funcionaría este ordenador? 
 
