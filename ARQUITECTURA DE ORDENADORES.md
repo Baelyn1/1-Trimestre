@@ -100,10 +100,6 @@ https://github.com/Baelyn1/1-Trimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES
 Tarea añadir clase binario
 
 
-
-
-
-
 Funcionamiento basico de un ordenador.
 
 Los ordenadores son maquinas que procesan informacion digital.
@@ -150,7 +146,6 @@ Enlaces a las diferentes paguinas: https://blogs.portafolio.co/cuales-son-los-co
 
 
 
-
 ## Desmonatar ordenadores:
 
 -¿Como es el ordenador que tengo?
@@ -166,9 +161,6 @@ Ejemplo: La tarjeta gráfica ATI X850 XT tiene las siguientes características:
 • Memoria gráfica: 256 MB a 587,3 MHz de tipo GDDR3. 
 • Tipo de interfaz: PCI Express 
 • Salidas de vídeo: DVI y S-Video 
-
-
-
 
 
 
@@ -344,7 +336,7 @@ DLOS
 Ataque DDOs es pedir a la vez demasiadas cosas a un mismo servidor
 
 
-Stream significaba arroyo   corriente de agua es una corriente de datos
+Stream significaba arroyo corriente de agua es una corriente de datos
 
 
 TCP/P----- 
@@ -364,19 +356,6 @@ IPv6   6bytes
 
 
 255×255×255×255×255 ------- 1,078203909×10¹² o treinta mil millones
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
