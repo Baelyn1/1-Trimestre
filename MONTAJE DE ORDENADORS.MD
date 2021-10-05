@@ -24,7 +24,7 @@ Esta es la fuente de alimentación. La fuente de alimentación sirve para alimen
 El trabajo de desmontar el ordenador fue bastante informativo, ya que descubri algunas partes que no conocia y fue hasta cierto punto divertido y instructivo.
 
 #### Que he aprendido sobre ordenadores
-He aprendido que 
+He aprendido donde estan situadas algunas de las partes de un ordenador y sus componentes.
 
 #### ¿Funcionaría este ordenador? 
 En mi opinion creo que si aunque con algunos errores o no tan potente como lo fue en su tiempo. Segun mi opinion enteramente personal.
