@@ -27,4 +27,7 @@ El trabajo de desmontar el ordenador fue bastante informativo, ya que descubri a
 He aprendido que 
 
 #### ¿Funcionaría este ordenador? 
+En mi opinion creo que si aunque con algunos errores o no tan potente como lo fue en su tiempo. Segun mi opinion enteramente personal.
+
+
 
