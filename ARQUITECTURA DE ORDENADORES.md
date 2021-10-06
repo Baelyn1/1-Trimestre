@@ -420,12 +420,36 @@ Para canviar la unidad, se utiliza  el Si, es
 25 MHz     52 bytes/paquete   ¿velocidad?
 
 
+velcidad de transmision es igual = Frecuencia paquete
+                                  25.000.000 x 512
+
+12800000000 
+
+bites/s  12.207
+
+
+### Sistema operativo
 
 
 
+windows 10
 
+Linux
 
+IOS
 
+Android
+
+mac OS
+
+Funciones basicas:
+
+-Hablar con el harware
+-Establen conecsion
+-
+-Acceder i administrar discos
+-Acceso basico de archivos
+-Permitir instalar otros programas
 
 
 
