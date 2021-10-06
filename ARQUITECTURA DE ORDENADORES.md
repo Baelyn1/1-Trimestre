@@ -398,6 +398,26 @@ MB a Giga byte (GB)
 
 Si hubieramos que pasar de bit a MB se unen _________ en este caso: Primero dividimos entre 8 y tengo 2 veces 1024, que es  el minimo de bytes en un KB.
 
+Si pasaramos de unidades grandes a chicas, multiplicamos en dos de dividir.
+
+La velocidad de transmision es igual a la frecuencia de la transmision del bus multiplicado por el numero de bits por paquete. El nnumero de bites por paquete depende de cuantas conecsiones tenga.
+
+Unidades de la frecuencia:
+
+la frecuencia se mide en Hez, herzios segundo a la -1/(1/segundo)
+
+1Hz apunta que algo
+
+
+
+En informatica estas frecuencias pueden referirse habitualmente a:
+
+-Frecuencias de relog para transmitir antes(Mhz - Ghz
+-Frecuencias de sonido 
+
+Para canviar la unidad, se utiliza  el Si, es
+
+25 MHz     52 bytes/paquete   ¿velocidad?
 
 
 
