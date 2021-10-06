@@ -359,6 +359,36 @@ IPv6   6bytes
 
 
 
+## Ejercicio
+
+Velocidad-- Frecuencia* Ancho de banda
+bits/s       H3           bits
+
+500MB/s --- 50.000 H3    ¿Cuanto es el hancho de banda?
+
+¿velocidad?  20.000 H3     86 bits
+
+160.000
+
+115kB/s
+
+
+Velocidad 20.000.000 * 8 = 160.000.000 bites/s
+
+160.000.000/ 8 - 1024
+
+
+19.531/ 1024 = 19,073242187 MB/s
+
+
+
+
+
+
+
+
+
+
 
 
 
