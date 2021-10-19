@@ -94,3 +94,80 @@ Evitar--- Cotocircuito
 
 
 
+
+
+
+void setup(){
+
+ pinMode(3,OUTPTUT);
+
+ pinMode(4,OUTPUT);
+
+ pinMode(5,OUTPUT);
+
+ pinMode(2,INPUT);
+
+ }
+
+ void loop(){
+
+ switchState = digitalRead(2);
+
+ // tu madre me la chupa xddd
+
+ if (switchState == LOW) {
+  
+ // el boton no esta pulsado
+
+ digitalWrite(3, HIGH); // LED verde
+
+ digitalWrite(4, LOW); // LED rojos
+
+ digitalWrite(5, LOW); // LED rojos
+
+ }
+
+ else { // the button is pressed
+  
+ digitalWrite (3, LOW);
+
+ digitalWrite (4, LOW);
+
+ digitalWrite (5, HIGH);
+
+ delay (250); // espera un cuarto de segundo
+  // permuta los lEDs
+
+ digitalWrite (4, HIGH);
+
+ digitalWrite (5, LOW);
+
+ delay 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
