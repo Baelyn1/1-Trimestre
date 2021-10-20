@@ -537,7 +537,7 @@ Otros particulares
 
 Gifs:
 
-![] https://img.blogs.es/anexom/wp-content/uploads/2016/07/simpsons.gif
+![]https://img.blogs.es/anexom/wp-content/uploads/2016/07/simpsons.gif
 
 
 
