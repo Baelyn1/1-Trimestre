@@ -607,7 +607,9 @@ El link encima de estas palabras es un link para ver una captura de pantalla de 
 
 ![imagen](https://user-images.githubusercontent.com/90755204/138089364-f3c83288-a905-4275-8a68-80cea5a6eb3d.png)
 
-La imaguen es de un cuadro donde hay
+La imaguen es de un cuadro donde hay 5 ovejas, lo unico que canvia de una a otra es el color grisaceo de la segunda y tambien el link de la paguina de donde esta el cuadro que es uno que se puede comprar y que te lo envien:
+
+https://pixers.es/cuadros-en-lienzo/ovejas-en-pasto-42956760 
 
 
 
