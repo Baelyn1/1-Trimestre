@@ -545,5 +545,31 @@ Gifs:
 
 
 
+Imaguenes verticales
+Se define la imaguen como un conjunto de formas (lineas,puente, etc)
+
+
+
+
+FormatoSUG(scalable, vector, 
+
+-DWG, 3DM, A1, DXF
+
+
+
+Imagen Ráster                imagen vectorial
+
+Rasterizamos una imaguen, cuando pasamos de una imaguen lectorial a una imaguen raster (mapa de bits).
+
+
+
+
+
+
+
+
+
+
+
 
 
