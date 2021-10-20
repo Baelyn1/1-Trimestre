@@ -561,6 +561,8 @@ Imagen Ráster                imagen vectorial
 
 Rasterizamos una imaguen, cuando pasamos de una imaguen lectorial a una imaguen raster (mapa de bits).
 
+Vectorizar es pasar de un mapa de bits (imagen ráster) a formato vectorial.
+
 
 
 
