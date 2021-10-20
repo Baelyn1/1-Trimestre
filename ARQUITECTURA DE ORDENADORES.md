@@ -522,12 +522,22 @@ colores ingresados
 
 
 
+Formatos comunes:
+
+-JPG---- Tiene comprension
+-GIF-----Se pueden animar
+-PNG------No tienen
+-TIFF----sin 
+
+Otros particulares
 
 
 
 
 
+Gifs:
 
+![]https://img.blogs.es/anexom/wp-content/uploads/2016/07/simpsons.gif
 
 
 
