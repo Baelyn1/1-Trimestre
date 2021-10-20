@@ -458,16 +458,16 @@ Funciones basicas:
 
 ¿Cuantos MB hay en un GB? 1024 MB son los que hay dentro de un GB.
 
-¿
+¿Que es la memoria RAM? Es una manera de almacenar temporalmente los datos.
 
+Software que permite tener otras aplicaciones dentro y que interactua con el hadware
 
+CPU----- Central Procesing Unit.
+La CPU es un conjunto de transistores
 
+GPU----- Graphic Procesing Uniti---- Cálculos Graficos
 
-
-
-
-
-
+¿Que es una Fuente de alimentacion o de poder? Es lo que alimenta con electricidad regulada todos los sistemas del ordenador.
 
 
 
