@@ -563,9 +563,13 @@ Rasterizamos una imaguen, cuando pasamos de una imaguen lectorial a una imaguen 
 
 Vectorizar es pasar de un mapa de bits (imagen ráster) a formato vectorial.
 
+Vamos a toma a tomar la imaguen del cuadro del leon de
+Rosa Bonheur
+Esta es la imaguen rasterizada
 
+![](https://content3.cdnprado.net/imagenes/Documentos/imgsem/19/1998/19984271-9cb6-476d-8655-f012e1fec1bf/511fdaef-910d-4148-9091-b2d19acdc2b5_832.jpg) 
 
-
+[Enlace a la fuente del museo del prado](https://www.museodelprado.es/en/the-collection/art-work/el-cid/19984271-9cb6-476d-8655-f012e1fec1bf)
 
 
 
