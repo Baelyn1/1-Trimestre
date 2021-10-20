@@ -603,6 +603,8 @@ acadimos la imagen de enternet
 
 El link encima de estas palabras es un link para ver una captura de pantalla de como se hiizo el proceso de la foto de arriva, la foto de arriba en si misma da miedo ya que con el contraste de luz y las marcas en esta da una impresion amenazadora e intimidante.
 
+![imagen](https://user-images.githubusercontent.com/90755204/138089447-e1fdc87b-51b4-4ce7-9f5a-9bcb556f7655.png)
+
 ![imagen](https://user-images.githubusercontent.com/90755204/138089364-f3c83288-a905-4275-8a68-80cea5a6eb3d.png)
 
 
