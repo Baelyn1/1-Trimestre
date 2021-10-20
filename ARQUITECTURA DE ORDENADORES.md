@@ -486,6 +486,36 @@ Las imaguenes se guardan diariamente de dos maneras:
 
 -Por un lado (Ráster) podemos hacer una matriz de puntos (mapa de bits) y a cada punto le asignamos un color (Píxel)
 
+## Propiedades de un ráster
+
+-Resolución un mapa de bits tienen un tamaño concreto de A x B
+La resolucion se puede expresar de diferentes formas.
+
+-Un total de píxeles: indirectamente MP 
+Esto es el número que resulta de maneras millones de 
+
+-Lineas horizontales. En vídeo se utilizo la cantidad de líneas horizontales 
+
+
+suelen ser 240
+480
+720
+1080
+2k
+4k
+    
+Un archivo puede extender su resolucion dividiendo su
+
+Por ejemplo una imaguen
+
+
+Un archivo
+
+No confundir con la resolucion  en inpresion
+
+
+
+
 
 
 
