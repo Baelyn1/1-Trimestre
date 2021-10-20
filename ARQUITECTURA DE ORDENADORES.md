@@ -514,11 +514,11 @@ Un archivo
 No confundir con la resolucion  en inpresion
 
 
+Sistemas para detallar los colores
+-RGB (rol) para pantallas
+cmyk(
 
-
-
-
-
+colores ingresados
 
 
 
