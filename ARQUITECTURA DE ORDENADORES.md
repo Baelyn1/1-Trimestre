@@ -573,6 +573,39 @@ Esta es la imaguen rasterizada
 
 
 
+### Ejercicio de vectorización
+
+Archivo----Propiedades del documento
+
+Tamaño personalizado
+anchura 600
+alto 1000
+
+Cerramos la ventana
+
+acadimos la imagen de enternet
+
+-Archivo---Importar
+-Aplastar la imaguen
+-Copiar y pegar la imaguen
+
+![imagen](https://user-images.githubusercontent.com/90755204/138084148-6c39c394-2517-4dda-a90a-7070b50a0b38.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
