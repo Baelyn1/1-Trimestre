@@ -473,6 +473,26 @@ GPU----- Graphic Procesing Uniti---- Cálculos Graficos
 
 Interfaz hay varios tipos: Físico, protocolo, Gráfica
 
+¿Que es el hancho de banda? Es la capacidad de transmision de un bus o de una transmision por segundo.
+
+110001----- 3D
+
+-----2D---- Ráster
+       ---- Vectorial
+
+Imaguenes
+
+Las imaguenes se guardan diariamente de dos maneras:
+
+-Por un lado (Ráster) podemos hacer una matriz de puntos (mapa de bits) y a cada punto le asignamos un color (Píxel)
+
+
+
+
+
+
+
+
 
 
 
