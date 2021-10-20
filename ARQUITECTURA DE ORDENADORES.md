@@ -599,7 +599,7 @@ acadimos la imagen de enternet
 
 ![imagen](https://user-images.githubusercontent.com/90755204/138086750-2e25e8f2-c4b1-43e4-8570-1d7c208e4797.png)
 
-
+![](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-10-20 13-50-37.png)
 
 
 
