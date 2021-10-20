@@ -601,7 +601,7 @@ acadimos la imagen de enternet
 
 ![imaguen](/home/auxiliarinformatica/Imágenes/Captura de pantalla de 2021-10-20 13-50-37.png)
 
-
+El link encima de estas palabras es un link para ver una captura de pantalla de como se hiizo el proceso de la foto de arriva, la foto de arriba en si misma da miedo ya que
 
 
 
