@@ -591,6 +591,7 @@ acadimos la imagen de enternet
 
 ![imagen](https://user-images.githubusercontent.com/90755204/138084148-6c39c394-2517-4dda-a90a-7070b50a0b38.png)
 
+![imagen](https://user-images.githubusercontent.com/90755204/138084806-3a10d750-7dd0-4c0f-a063-3dc353c0a2c5.png)
 
 
 
