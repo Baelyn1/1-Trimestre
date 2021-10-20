@@ -469,9 +469,9 @@ GPU----- Graphic Procesing Uniti---- Cálculos Graficos
 
 ¿Que es una Fuente de alimentacion o de poder? Es lo que alimenta con electricidad regulada todos los sistemas del ordenador.
 
+¿Que es un Driver? Es un puente entre el software a hardwere.
 
-
-
+Interfaz hay varios tipos: Físico, protocolo, Gráfica
 
 
 
