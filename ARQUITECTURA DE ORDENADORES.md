@@ -452,6 +452,32 @@ Funciones basicas:
 -Permitir instalar otros programas
 
 
+# Apuntes de examen
+
+¿Cuantos bits hay en un byte? 8 bits hacen un byte.
+
+¿Cuantos MB hay en un GB? 1024 MB son los que hay dentro de un GB.
+
+¿
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
