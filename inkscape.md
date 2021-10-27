@@ -11,4 +11,6 @@ Ráster
 
 ![](https://raw.githubusercontent.com/Baelyn1/1-Trimestre/main/leon01.png)
 
-![](https://raw.githubusercontent.com/Baelyn1/1-Trimestre/main/leon02.png)
+![](https://raw.githubusercontent.com/Baelyn1/Arduino/main/leon02.png)
+
+![](https://raw.githubusercontent.com/Baelyn1/1-Trimestre/main/leon03.png)
