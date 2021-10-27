@@ -42,3 +42,4 @@ este sistema mezcla los tres colores subtractivos (cyan, el magenta, amarillo) y
 
 
 
+
