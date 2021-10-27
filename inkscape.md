@@ -1,4 +1,4 @@
-## 
+## Inkscape
 
 Imaguen ráster---- Píxeles
 Imaguen vectorial---- Formas
