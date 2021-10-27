@@ -35,6 +35,28 @@ este sistema mezcla los tres colores subtractivos (cyan, el magenta, amarillo) y
 
 
 
+## Operaciones de supstracciones:
+
+
+
+Forma1 U Forma 2
+
+La forma 1 Forma 2
+
+
+
+## Como ajustar el lienzo en inkescape
+
+Archivo
+
+Propiedades del documento Control+Shift+F
+
+Ajustar páguina acontenido---Botón----Ajustar página a contenido selección
+
+![](
+
+
+
 
 
 
