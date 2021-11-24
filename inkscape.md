@@ -27,7 +27,7 @@ y un canal de luminosidad  HSL(Hu,Saturacion,Light)
 
 -Este sistema mezcla un tono de color en la rueda cromatica.
 
--Un cnal de nivel de saturacion cromatica que va del gris al color (Saturation9
+-Un canal de nivel de saturacion cromatica que va del gris al color (Saturation9
 
 -Un canal de luminosidad del color (Light)
 
